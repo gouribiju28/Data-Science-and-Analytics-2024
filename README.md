@@ -27,7 +27,6 @@ Python is a high level, object-oriented and interpreted programming language whi
 A color image is a 3-D matrix. If it is a black and white image, then it will be single layered. Taking the average of the 3 pixels in a color image will convert the picture into black and white. Difference between two neighboring pixels will give the outline of the image.
 
 ## DATA SCIENCE LIFE CYCLE
-![Alt](https://www.researchgate.net/publication/359838331/figure/fig2/AS:11431281096070104@1668080350219/Typical-data-science-lifecycle.png)
 1. **Business Understanding**
 Here, we will try to identify a pattern from the available set of data. These are then converted into actionable insights to generate business or business ideas. So, we identify the problem, analyze what kind of data is needed, collect the data and then finally analyze the data.
 
@@ -47,4 +46,4 @@ For example,
 7. **Predictive Modeling**
 8. **Data Visualization**
 
-![Alt](https://www.researchgate.net/publication/359838331/figure/fig2/AS:11431281096070104@1668080350219/Typical-data-science-lifecycle.png)
+![Alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanalyticstraininghub.com%2Flife-cycle-of-data-science%2F&psig=AOvVaw1IKw1JvEzzBuUqBMQbq7WO&ust=1731037678833000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjojIeoyYkDFQAAAAAdAAAAABAg)
