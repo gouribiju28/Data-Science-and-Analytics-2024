@@ -45,5 +45,26 @@ For example,
 
 7. **Predictive Modeling**
 8. **Data Visualization**
+![Alt]A color image is a 3-D matrix. If it is a black and white image, then it will be single layered. Taking the average of the 3 pixels in a color image will convert the picture into black and white. Difference between two neighboring pixels will give the outline of the image.
+
+## DATA SCIENCE LIFE CYCLE
+1. **Business Understanding**
+Here, we will try to identify a pattern from the available set of data. These are then converted into actionable insights to generate business or business ideas. So, we identify the problem, analyze what kind of data is needed, collect the data and then finally analyze the data.
+
+2. **Data Mining**
+This refers to collection of data from various resources.
+
+3. **Data Cleaning**
+The data initially collected will contain both unstructured and structured data. So the data is being converted into a structured format in this step.
+
+4. **Data Exploration**
+Exploratory Data Analysis is used to analyze the relation between data using graphs or other tools like scatter plot, heat map, histograms, etc.
+
+5. **Feature Engineering**
+In this step, we identify a parameter to help analyze using domain expertise. We will combine existing parameters to create some useful variable. 
+For example,
+
+7. **Predictive Modeling**
+8. **Data Visualization**
 
 ![Alt](https://www.researchgate.net/publication/359838331/figure/fig2/AS:11431281096070104@1668080350219/Typical-data-science-lifecycle.png)
