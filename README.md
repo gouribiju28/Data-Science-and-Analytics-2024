@@ -20,7 +20,7 @@ C --> G{Classification}
 ```
 Machine learning is all about the ability of computer to learn without being explicitly programmed. Machine learning has two components, classical learning and deep learning. Rule-based systems won't be applicable at all times. 
 
-# Python
+## Python
 Python is a high level, object-oriented and interpreted programming language which is used widely to write codes. Python is familiar among its users because of its simple nature. It is primarily stored in the RAM, then moved to hardware. Space for storage allocation is determined using the data type. For 256 characters, 8 bits are being used. If it is a Boolean function, only 1 bit is required. Python uses various libraries such as NumPy, Scikitlearn, Matplotlib for large multi dimensional array processing.These libraries can be saved so that it can be shared with public.
 
 ### *Array visualization in Python*
