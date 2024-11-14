@@ -46,4 +46,3 @@ For example,
 7. **Predictive Modeling**
 8. **Data Visualization**
 
-![Alt](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanalyticstraininghub.com%2Flife-cycle-of-data-science%2F&psig=AOvVaw1IKw1JvEzzBuUqBMQbq7WO&ust=1731037678833000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjojIeoyYkDFQAAAAAdAAAAABAg)
