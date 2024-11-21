@@ -1,9 +1,9 @@
 ## DATABASES
 
 - Databases are sorted, structured form of data.
-  * .csv files, .txt files, excel filesa re all called flat files
+  * .csv files, .txt files, excel files are all called flat files
   * Data analysts retrieve the data stored in the database.
-  * A database stores information in multiple locations to imporve reliability.
+  * A database stores information in multiple locations to improve reliability.
   * Examples of databases include Oracle, MySQL etc.
   * **Relational Database** are structured data with clear relationship between data points.
     + They have complex queries
@@ -64,6 +64,6 @@ TRUNCATE : deletes contents, but retains the table.
   * RIGHT JOIN 
   * FULL OUTER JOIN : all the elements included
   * NATURAL JOIN
-   
+
 - NESTED QUERIES
   * Inner query will be executed first.
