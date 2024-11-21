@@ -36,6 +36,7 @@
 SELECT (table_name)
 FROM (row/colummn_name)
 WHERE (specify any condition)
+
 WHERE query is used to filter.
 
 OR : this query includes output where both the conditions are satisfied or if either of the condition is satisfied.
@@ -45,7 +46,9 @@ XOR : this query includes only one of the condition, not both at the same time.
 LIKE
 
 ROUND
+
 DROP : deletes both contents and table.
+
 TRUNCATE : deletes contents, but retains the table.
 
 - SYNTAX:
