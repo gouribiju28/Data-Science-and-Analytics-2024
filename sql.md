@@ -57,6 +57,7 @@ TRUNCATE : deletes contents, but retains the table.
     + HAVING
     + ORDER BY (ASC, DESC)
     + LIMIT (OFFSET)
+
 - JOIN : query used to merge two tables
   * INNER JOIN : only the common elements will be chosen and merged.
   * LEFT JOIN : starting from the left table, all elements will be included, null values used to represent data where it is not present in the right table.
